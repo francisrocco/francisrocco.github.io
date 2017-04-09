@@ -54,6 +54,10 @@ h6 {
     font-size: 5em;
 }
 
+.intro-message > img {
+    display: block;
+}
+
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
